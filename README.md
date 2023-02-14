@@ -1,7 +1,7 @@
 This is the official implementation for the COLING 2022 
  "Optimal Partial Transport based Sentence Selection for Long-form Document Matching".
  
- For datasets, please refer to the wonderful work [CDA](https://github.com/XuhuiZhou/CDA)
+ For datasets, please refer to the wonderful work [CDA](https://github.com/XuhuiZhou/CDA).
  
 ```bib
 @inproceedings{yu-etal-2022-optimal,
